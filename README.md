@@ -17,8 +17,8 @@
 
 <p align="center">
 <a href="https://www.watilacosta.com.br" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.watilacosta.com.br-red?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/watilacosta/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@watilacosta-red?style=flat&logo=linkedin"></a>
-<a href="mailto:watilafreire26@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-watilafreire26@gmail.com-red?style=flat&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/watilacosta/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@watilacosta-green?style=flat&logo=linkedin"></a>
+<a href="mailto:watilafreire26@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-watilafreire26@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 
