@@ -1,6 +1,8 @@
 ## Olá, bem vindo(a) ao meu perfil. 👋 Eu sou [Wátila Costa](http://watilacosta.com.br)
 > Desenvolvedor de Sistemas Ruby on Rails na [Mondrian Tecnologia](http://www.mondriantecnologia.com/)
 
+📫 Meu email: watilafreire26@gmail.com
+
 ### Graduação:
 - Análise e Desenvolvimento de Sistemas
 
@@ -8,8 +10,6 @@
 - Engenharia de Software com Ênfase em Qualidade e Testes de Software - 2020-2021
 - IA, Machine Learning e Data Science - 2020-2021
 - MBA em Gestão de Projetos em TI - 2020-2021
-
-📫 Meu email: watilafreire26@gmail.com
 
 ### Github Stats
 
