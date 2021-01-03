@@ -6,8 +6,6 @@
 
 ### Especializando em:
 - Engenharia de Software com Ênfase em Qualidade e Testes de Software - 2020-2021
-- IA, Machine Learning e Data Science - 2020-2021
-- MBA em Gestão de Projetos em TI - 2020-2021
 
 ### Github Stats
 
