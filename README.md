@@ -1,6 +1,5 @@
 ## Olá, bem vindo(a) ao meu perfil. 👋 Eu sou [Wátila Freire](http://watilacosta.com.br)
 > Desenvolvedor de Sistemas Ruby on Rails
-> Desenvolvedor Flutter
 
 ### Graduação:
 - Análise e Desenvolvimento de Sistemas
