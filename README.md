@@ -5,7 +5,7 @@
 - Análise e Desenvolvimento de Sistemas
 
 ### Especializando em:
-- Engenharia de Software com Ênfase em Qualidade e Testes de Software - 2020-2021
+- Arquitetura de Software - 2021/2022
 
 ### Github Stats
 
