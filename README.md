@@ -3,9 +3,7 @@
 
 ### Graduação:
 - Análise e Desenvolvimento de Sistemas
-
-### Especializando em:
-- Arquitetura de Software - 2021/2022
+- Engenharia da Computação (Em andamento)
 
 ### Github Stats
 
