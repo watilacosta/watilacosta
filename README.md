@@ -3,7 +3,8 @@
 
 ### Graduação:
 - Análise e Desenvolvimento de Sistemas
-- Engenharia da Computação (Em andamento)
+### Pós Graduação
+- Arquitetura de Software (Em andamento) - Lato Sensu
 
 ### Github Stats
 
