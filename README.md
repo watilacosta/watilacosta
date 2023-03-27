@@ -4,7 +4,8 @@
 ### Graduação:
 - Análise e Desenvolvimento de Sistemas
 ### Pós Graduação
-- Arquitetura de Software (Em andamento) - Lato Sensu
+- CIÊNCIAS DE DADOS E INTELIGÊNCIA ARTIFICIAL (Em andamento) - Lato Sensu
+- TUTORIA EM EDUCAÇÃO A DISTÂNCIA E DOCÊNCIA DO ENSINO SUPERIOR (Em andamento) - Lato Sensu
 
 ### Github Stats
 
