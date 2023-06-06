@@ -3,9 +3,7 @@
 
 ### Graduação:
 - Análise e Desenvolvimento de Sistemas
-### Pós Graduação
-- CIÊNCIAS DE DADOS E INTELIGÊNCIA ARTIFICIAL (Em andamento) - Lato Sensu
-- TUTORIA EM EDUCAÇÃO A DISTÂNCIA E DOCÊNCIA DO ENSINO SUPERIOR (Em andamento) - Lato Sensu
+- Engenharia Mecatrônica (Em andamento)
 
 ### Github Stats
 
