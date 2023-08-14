@@ -3,7 +3,6 @@
 
 ### Graduação:
 - Análise e Desenvolvimento de Sistemas
-- Engenharia Mecatrônica (Em andamento)
 
 ### Github Stats
 
